@@ -25,14 +25,6 @@ Instead of trying to manipulate website code (which causes breakage), this exten
 - **Open in new tab** - Toggle whether links open in new tab or current tab
 - **Show floating button** - Toggle the floating button on detected paywall pages
 
-## Installation
-
-1. Download and extract this folder
-2. Open Chrome → `chrome://extensions/`
-3. Enable **Developer mode** (toggle top-right)
-4. Click **Load unpacked**
-5. Select the `paywall_remover_extension` folder
-
 ## Advantages Over DOM Manipulation
 
 ✅ **No site breakage** - Doesn't modify any website code  
@@ -54,6 +46,3 @@ The service uses various techniques to fetch paywalled content:
 When you use this extension, the URL you want to view is sent to removepaywall.com. 
 No other data is transmitted. The external service fetches the content and displays it.
 
-## License
-
-MIT - For educational use only.
