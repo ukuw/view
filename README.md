@@ -1,7 +1,7 @@
  Firefox Extension
 https://addons.mozilla.org/de/firefox/addon/viewfirefox/
 
-# Paywall Remover v2.0 - Service Mode
+# Paywall Remover
 
 A Firefox extension that opens paywalled articles via removepaywall.com service.
 This approach does NOT modify websites - it simply opens them through an external service.
@@ -12,14 +12,6 @@ Instead of trying to manipulate website code (which causes breakage), this exten
 1. Opens paywalled URLs through `https://www.removepaywall.com/search?url=`
 2. The external service fetches the article content and displays it
 3. No webpage modification happens on your browser
-
-## Features
-
-### Multiple Ways to Use
-1. **Extension Popup** - Click the extension icon, then "Open Without Paywall"
-2. **Floating Button** - Appears on pages detected as potentially paywalled
-3. **Right-click Link** - Right-click any link → "Open without paywall"
-4. **Right-click Page** - Right-click anywhere on page → "Open this page without paywall"
 
 ### Options
 - **Open in new tab** - Toggle whether links open in new tab or current tab
