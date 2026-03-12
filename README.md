@@ -1,35 +1,5 @@
 Download Firefox Extension
-<a href="#" class="firefox-button">
-  <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f1097a8e5627.png" alt="Firefox Logo">
-  <span>Get the Firefox Extension</span>
-</a>
 
-<style>
-.firefox-button {
-  display: inline-flex;
-  align-items: center;
-  background: linear-gradient(90deg, #ff9442 0%, #ff1a69 100%);
-  color: white;
-  padding: 12px 28px;
-  border-radius: 50px; /* Nova's signature rounded look */
-  text-decoration: none;
-  font-family: "Metropolis", "Inter", sans-serif;
-  font-weight: 600;
-  transition: transform 0.2s, box-shadow 0.2s;
-  box-shadow: 0 4px 15px rgba(255, 26, 105, 0.3);
-}
-
-.firefox-button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(255, 26, 105, 0.4);
-}
-
-.firefox-button img {
-  width: 24px;
-  height: 24px;
-  margin-right: 12px;
-}
-</style>
 
 # Paywall Remover v2.0 - Service Mode
 
