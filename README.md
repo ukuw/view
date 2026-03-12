@@ -38,7 +38,6 @@ Instead of trying to manipulate website code (which causes breakage), this exten
 The service uses various techniques to fetch paywalled content:
 - Reader mode extraction
 - Archive services (archive.today, outline.com)
-- Textise dot iitty
 - And other legitimate methods
 
 ## Privacy Note
