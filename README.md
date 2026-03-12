@@ -1,5 +1,5 @@
-Download Firefox Extension
-
+ Firefox Extension
+https://addons.mozilla.org/de/firefox/addon/viewfirefox/
 
 # Paywall Remover v2.0 - Service Mode
 
